@@ -1,0 +1,17 @@
+[
+    {
+        "location": "Paris, France",
+        "date": "2025-05-15",
+        "logo": "paris_logo.png"
+    },
+    {
+        "location": "Berlin, Germany",
+        "date": "2025-06-20",
+        "logo": "berlin_logo.png"
+    },
+    {
+        "location": "New York, USA",
+        "date": "2025-07-10",
+        "logo": "newyork_logo.png"
+    }
+]
