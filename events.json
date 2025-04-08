@@ -2,16 +2,16 @@
     {
         "location": "Paris, France",
         "date": "2025-05-15",
-        "logo": "paris_logo.png"
+        "logo": "logo_paris.jpg"
     },
     {
         "location": "Berlin, Germany",
         "date": "2025-06-20",
-        "logo": "berlin_logo.png"
+        "logo": "logo_berlin.jpg"
     },
     {
         "location": "New York, USA",
         "date": "2025-07-10",
-        "logo": "newyork_logo.png"
+        "logo": "logo_newyork.jpg"
     }
 ]
