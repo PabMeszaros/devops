@@ -1,5 +1,34 @@
 [
     {
+      "location": "San Francisco, CA",
+      "date": "2023-11-15",
+      "logo": "https://www.sftravel.com/sites/default/files/styles/hero/public/2022-10/painted-ladies-city-skyline-twilight.jpg.webp?itok=MVU3kPdc"
+    },
+    {
+      "location": "New York, NY",
+      "date": "2023-12-05",
+      "logo": "https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/v1/shutterstock_329662223_ss_non-editorial_3_csm8lw?_a=BAVAZGDX0"
+    },
+    {
+      "location": "London, UK",
+      "date": "2024-01-20",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg/960px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_%28cropped%29.jpg"
+    },
+    {
+      "location": "Tokyo, Japan",
+      "date": "2024-02-10",
+      "logo": "https://www.gotokyo.org/fr/plan/tokyo-outline/images/main.jpg"
+    },
+    {
+      "location": "Berlin, Germany",
+      "date": "2024-03-15",
+      "logo": "https://media.routard.com/image/09/5/berlin.1554095.jpg"
+    },
+    {
+      "location": "Sydney, Australia",
+      "date": "2024-04-05",
+      "logo": "https://www.dneg.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F3sjsytt3tkv5%2F1cKRxABwxvgAwR5wnrN9rg%2F506c7d085b2e7f4177a896aa526f9c74%2FSYD_Image_1.jpg&w=3840&q=75"
+=======
         "location": "Paris, France",
         "date": "2025-05-15",
         "logo": "logo_paris.jpg"
@@ -14,4 +43,4 @@
         "date": "2025-07-10",
         "logo": "logo_newyork.jpg"
     }
-]
+  ]
