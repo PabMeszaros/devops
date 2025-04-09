@@ -169,5 +169,38 @@
     </footer>
 
     <script src="script.js"></script>
+=======
+    <h1>DevOps Days Events</h1>
+    <div id="events"></div>
+
+    <script>
+      // Charger le fichier JSON
+      fetch("events.json")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Erreur lors du chargement du fichier JSON");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          const eventsContainer = document.getElementById("events");
+
+          // Parcourir les événements et les afficher
+          data.forEach((event) => {
+            const eventDiv = document.createElement("div");
+            eventDiv.classList.add("event");
+
+            // Ajouter le contenu de l'événement
+            eventDiv.innerHTML = `
+                        <img src="${event.logo}" alt="Logo de l'événement">
+                        <p><strong>Lieu :</strong> ${event.location}</p>
+                        <p><strong>Date :</strong> ${event.date}</p>
+                    `;
+
+            eventsContainer.appendChild(eventDiv);
+          });
+        })
+        .catch((error) => console.error("Erreur :", error));
+    </script>
   </body>
 </html>

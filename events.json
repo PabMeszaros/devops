@@ -28,5 +28,19 @@
       "location": "Sydney, Australia",
       "date": "2024-04-05",
       "logo": "https://www.dneg.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F3sjsytt3tkv5%2F1cKRxABwxvgAwR5wnrN9rg%2F506c7d085b2e7f4177a896aa526f9c74%2FSYD_Image_1.jpg&w=3840&q=75"
+=======
+        "location": "Paris, France",
+        "date": "2025-05-15",
+        "logo": "logo_paris.jpg"
+    },
+    {
+        "location": "Berlin, Germany",
+        "date": "2025-06-20",
+        "logo": "logo_berlin.jpg"
+    },
+    {
+        "location": "New York, USA",
+        "date": "2025-07-10",
+        "logo": "logo_newyork.jpg"
     }
   ]
